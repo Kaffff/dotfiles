@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-brew bundle --file ../Brewfile
+brew bundle --file ./Brewfile
