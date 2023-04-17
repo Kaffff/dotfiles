@@ -25,4 +25,3 @@ export CPPFLAGS="-I/opt/homebrew/opt/postgresql@12/include"
 
 
 
-source /Users/kazuki/.docker/init-zsh.sh || true # Added by Docker Desktop
