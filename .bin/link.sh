@@ -1,5 +1,5 @@
 #!/bin/bash
 
-ln com.googlecode.iterm2.plist  ~/Library/Preferences/com.googlecode.iterm2.plist
+ln -f com.googlecode.iterm2.plist  ~/Library/Preferences/com.googlecode.iterm2.plist
 
-ln settings.json ~/Library/Application\ Support/Code/User/settings.json
+ln -f settings.json ~/Library/Application\ Support/Code/User/settings.json
