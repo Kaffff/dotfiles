@@ -1,0 +1,36 @@
+{
+  "workbench.colorTheme": "August - Gruvbox (Darker)",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Roboto Mono",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "on",
+    "strings": "on"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+    // "source.organizeImports": true,
+  },
+  "solargraph.commandPath": "/Users/kazuki/.rbenv/shims/solargraph",
+  "ruby.interpreter.commandPath": "/Users/kazuki/.rbenv/shims/ruby",
+  "ruby.useBundler": false,
+  "ruby.useLanguageServer": true,
+  "ruby.lint": {
+    "rubocop": false
+  },
+  "ruby.format": false,
+  "solargraph.formatting": true,
+  "solargraph.diagnostics": true,
+  "[ruby]": {
+    "editor.defaultFormatter": "castwide.solargraph"
+  },
+  "ruby.intellisense": "rubyLocate",
+  "githubPullRequests.pullBranch": "never",
+  "prettier.singleQuote": true,
+  "gitlens.views.commitDetails.files.layout": "list",
+  "git.ignoreRebaseWarning": true
+}
