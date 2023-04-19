@@ -1,5 +1,5 @@
 # Do everything.
-all: init link defaults brew
+all: init link defaults brew zsh
 
 # Set initial preference.
 init:

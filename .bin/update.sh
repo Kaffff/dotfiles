@@ -6,3 +6,4 @@ brew bundle dump
 cp ~/.zshrc .
 cp ~/.zshenv .
 cp ~/.zprofile .
+cp ~/.zpreztorc .
