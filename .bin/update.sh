@@ -7,4 +7,4 @@ cp ~/.zshrc .
 cp ~/.zshenv .
 cp ~/.zprofile .
 cp ~/.zpreztorc .
-cp Library/Application\ Support/Code/User/settings.json .
+# cp -f Library/Application\ Support/Code/User/settings.json .
