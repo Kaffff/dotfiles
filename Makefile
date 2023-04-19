@@ -16,3 +16,11 @@ defaults:
 # Install macOS applications.
 brew:
 	.bin/brew.sh
+
+# Install zsh config.
+zsh: 
+	.bin/zsh.sh
+
+# Update Dotfiles
+update:
+	.bin/update.sh
